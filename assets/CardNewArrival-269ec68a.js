@@ -1,0 +1,1 @@
+import{j as a}from"./index-8c65de2b.js";const s=({post:r})=>a.jsxs("div",{className:"cardNew",children:[a.jsx("img",{className:"card__img",src:r.img,alt:r.title}),a.jsx("p",{children:r.category})]});export{s as default};
